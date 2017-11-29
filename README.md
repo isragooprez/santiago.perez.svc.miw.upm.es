@@ -10,9 +10,12 @@
 
 ### Descripción
 Este proyecto pretende ser una plantilla maven para crear un proyecto
-1.- Descomprimir en la carpeta de trabajo
-2.- Editar el pom.xml y cambiarle el nombre del proyecto
-3.- Desde Eclipse, importar el proyecto como un proyecto de maven existente
-4.- Cambiar la configuracion del archivo travis.yml para conectar con travis y sonar.
+
+Autor: Santiago Perez
+Matricula: bo0414
+
+1.- GITHUB https://github.com/isragooprez/santiago.perez.svc.miw.upm.es
+2.- TRAVIS https://travis-ci.org/isragooprez/santiago.perez.svc.miw.upm.es
+3.- SONAR  https://sonarcloud.io/dashboard?id=es.upm.miw%3ASantiago.Perez.SVC.miw.upm.es
 
 
