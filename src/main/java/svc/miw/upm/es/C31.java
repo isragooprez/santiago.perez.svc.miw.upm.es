@@ -11,5 +11,10 @@ public class C31 {
 
         return "m2";
     }
+    
+    public static String mB() {
+
+        return "mB";
+    }
 
 }
